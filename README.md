@@ -77,18 +77,11 @@ Tools & Development Environment
 
 🚀 Projects & Practical Learning
 
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Xorvantis&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xorvantis&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
 </p>
 
 I am building my technical portfolio through practical exercises, experiments, and documented learning projects.
