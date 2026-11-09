@@ -19,6 +19,29 @@ I am committed to developing practical technical skills through continuous learn
 
 🛡️ Technical Skills & Technologies
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=39FF14" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=39FF14" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=shield&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=39FF14" />
+</p>
+
 Operating Systems
 
 - Linux
