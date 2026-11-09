@@ -1,76 +1,85 @@
-# Welcome to My GitHub Profile 👋
+👨‍💻 Welcome to My GitHub Profile
 
-<h1 align="center">THE POTENTIAL YOU HAVE, MEANS NOTHING WITHOUT TAKING ACTION.</h1>
+<h1 align="center">THE POTENTIAL YOU HAVE MEANS NOTHING WITHOUT TAKING ACTION.</h1><h3 align="center">IT • CYBERSECURITY • TECHNOLOGY</h3><p align="center">
+  <strong>SECURE. INNOVATE. BUILD.</strong>
+</p>---
 
-<h3 align="center">Technology • Intelligence • Security</h3>
+👨‍💻 About Me
 
----
+I am an aspiring Cybersecurity Specialist and IT enthusiast passionate about technology, digital security, networking, and software development.
 
-## 👨‍💻 About Me
+I am committed to developing practical technical skills through continuous learning, research, and hands-on projects.
 
-I am a technology enthusiast passionate about understanding how technology works and how it can be used to solve real-world problems.
+- 🔐 Interested in Cybersecurity and Information Security
+- 🌐 Learning Computer Networking and IT Infrastructure
+- 🐧 Exploring Linux and Operating Systems
+- 💻 Developing programming and web development skills
+- 🚀 Building practical projects and technical knowledge
+- 🏛️ Future vision: XORVANTIS
 
-My journey is focused on developing practical knowledge and skills in Information Technology and Cybersecurity.
+🛡️ Technical Skills & Technologies
 
-- 🔐 Exploring Cybersecurity & Cyber Defense
-- 🌐 Learning Networking & Systems Administration
-- 💻 Developing IT and programming skills
-- 🧠 Interested in Digital Intelligence and Research
-- 🚀 Building my knowledge through practical projects
-- 🏢 Future builder at XORVANTIS
-
-## 🎯 Current Learning Focus
-
-- Linux & Kali Linux
-- Computer Networking
-- Cybersecurity Fundamentals
-- Python Programming
-- Operating Systems
-- Ethical Hacking Fundamentals
-- Information Security
-
-## 🛠️ Technologies & Tools
-
-Currently learning and exploring:
+Operating Systems
 
 - Linux
-- Python
-- Git & GitHub
-- Networking
 - Kali Linux
-- Information Security
+- Windows
 
-## 🚀 My Mission
+Cybersecurity & Networking
+
+- Cybersecurity Fundamentals
+- Computer Networking
+- Information Security Fundamentals
+
+Programming & Web Development
+
+- Python
+- HTML
+- CSS
+
+Tools & Development Environment
+
+- Git
+- GitHub
+- Visual Studio Code
+
+🎯 Current Learning Goals
+
+- Strengthening Linux administration skills
+- Understanding networking protocols and infrastructure
+- Learning Python programming
+- Exploring ethical hacking fundamentals
+- Improving web development skills
+- Practicing cybersecurity in authorized lab environments
+
+🚀 Projects & Practical Learning
+
+I am building my technical portfolio through practical exercises, experiments, and documented learning projects.
+
+More projects will be added as I continue developing my skills.
+
+🏛️ Future Vision — XORVANTIS
+
+XORVANTIS | Advanced Technology Lab
+
+A long-term vision focused on:
+
+- Cybersecurity
+- IT Infrastructure
+- Digital Intelligence
+- Technology Research
+- Innovation and Development
+
+🌍 My Mission
 
 To transform knowledge into practical skills, ideas into innovation, and potential into measurable results.
 
-I believe that success comes through discipline, consistency, curiosity, and action.
-
-## 🏛️ Future Vision
-
-**XORVANTIS — Advanced Technology Lab**
-
-Cybersecurity | Digital Intelligence | IT Research | Innovation
+I believe in discipline, ethical responsibility, continuous learning, and taking action.
 
 ---
 
-<h3 align="center">"THE POTENTIAL YOU HAVE, MEANS NOTHING WITHOUT TAKING ACTION."</h3>
-
 <p align="center">
-  Learn. Build. Secure. Innovate.
+  <strong>LEARN. BUILD. SECURE. INNOVATE.</strong>
+</p><p align="center">
+  THE POTENTIAL YOU HAVE MEANS NOTHING WITHOUT TAKING ACTION.
 </p>
-
-<!--
-**Xorvantis/Xorvantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
