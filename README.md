@@ -54,7 +54,7 @@ Cybersecurity | Digital Intelligence | IT Research | Innovation
 
 ---
 
-<h3 align="center">"THE POTENTIAL MEANS NOTHING WITHOUT TAKING ACTION."</h3>
+<h3 align="center">"THE POTENTIAL YOU HAVE, MEANS NOTHING WITHOUT TAKING ACTION."</h3>
 
 <p align="center">
   Learn. Build. Secure. Innovate.
